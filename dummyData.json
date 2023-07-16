@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "contactName": "John Doe",
+    "messages": [
+      { "id": 1, "text": "Hello!", "timestamp": 1634550000000 },
+      { "id": 2, "text": "How are you?", "timestamp": 1634551000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "contactName": "Jane Smith",
+    "messages": [
+      { "id": 1, "text": "Hi there!", "timestamp": 1634560000000 }
+    ]
+  }
+]
